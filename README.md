@@ -4,4 +4,6 @@
 Original Workshop Date: 9/9/2020
 
 UC Berkeley Datahub [Link](http://bit.ly/intro-to-python-fa20)
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/fa20-intro-to-python-library-workshop/master)
