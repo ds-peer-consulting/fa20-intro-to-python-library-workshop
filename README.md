@@ -7,4 +7,4 @@ Original Workshop Date: 9/9/2020
 
 
 
-## **Everyone Else[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/fa20-intro-to-python-library-workshop/master)**
+## **Everyone Else: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/fa20-intro-to-python-library-workshop/master)**
